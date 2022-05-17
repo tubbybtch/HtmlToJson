@@ -1,0 +1,26 @@
+{
+  "name": "html_to_json_extendable",
+  "version": "1.0.0",
+  "description": "Class to convert HTML to JSON - Extendable to allow for customizable json",
+  "main": "HtmlToJson.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tubbybtch/HtmlToJson.git"
+  },
+  "keywords": [
+    "HTML",
+    "JSON"
+  ],
+  "author": "Brian A. Kamp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tubbybtch/HtmlToJson/issues"
+  },
+  "dependencies": {
+	  "cheerio": "^1.0.0"
+  },
+  "homepage": "https://github.com/tubbybtch/HtmlToJson#readme"
+}
